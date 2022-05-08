@@ -1,0 +1,86 @@
+14
+
+Yogurt Cup
+10
+12.560000
+Al Ain
+Dairy
+
+Milk Maid
+20
+50.000000
+Al Rawabi
+Dairy
+
+Potatoes
+30
+12.000000
+Farmgood
+Vegetables
+
+Brown rice
+55
+50.000000
+Pure
+Grains
+
+Cabbage
+15
+15.000000
+Farmgood
+Vegetables
+
+Beans
+51
+100.000000
+Farmgood
+Vegetables
+
+Banana
+21
+20.000000
+Farmgood
+Fruits
+
+Beef
+18
+90.000000
+Farmgood
+Meat
+
+Eggs
+24
+45.000000
+Farmgood
+Animal Products
+
+iPhone X
+9
+55000.000000
+Apple 
+Electronics
+
+Box
+15
+16.000000
+The Box Company
+Accessories
+
+Plant
+10
+15.000000
+The Plant Company
+Accessories
+
+oranges
+28
+14.000000
+Farmgood
+Fruits
+
+Chewing Gum
+15
+0.500000
+5 GUM
+Counter
+

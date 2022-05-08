@@ -1,0 +1,11 @@
+ ________________________
+|  DAY      | Profit(tk) |
+ ------------------------
+| Sunday    | 5000 tk    |
+| Monday    | 6500 tk    |
+| Tuesday   | 4500 tk    |
+| Wednesday | 3755 tk    |
+| Thursday  | 4597 tk    |
+| Friday    | 2799 tk    |
+| Saturday  | 4103 tk    |
+ -------------------------
