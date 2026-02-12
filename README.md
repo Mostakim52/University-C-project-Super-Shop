@@ -1,3 +1,18 @@
+
+```
+  ______                                                  ______   __                           
+ /      \                                                /      \ /  |                          
+/$$$$$$  | __    __   ______    ______    ______        /$$$$$$  |$$ |____    ______    ______  
+$$ \__$$/ /  |  /  | /      \  /      \  /      \       $$ \__$$/ $$      \  /      \  /      \ 
+$$      \ $$ |  $$ |/$$$$$$  |/$$$$$$  |/$$$$$$  |      $$      \ $$$$$$$  |/$$$$$$  |/$$$$$$  |
+ $$$$$$  |$$ |  $$ |$$ |  $$ |$$    $$ |$$ |  $$/        $$$$$$  |$$ |  $$ |$$ |  $$ |$$ |  $$ |
+/  \__$$ |$$ \__$$ |$$ |__$$ |$$$$$$$$/ $$ |            /  \__$$ |$$ |  $$ |$$ \__$$ |$$ |__$$ |
+$$    $$/ $$    $$/ $$    $$/ $$       |$$ |            $$    $$/ $$ |  $$ |$$    $$/ $$    $$/ 
+ $$$$$$/   $$$$$$/  $$$$$$$/   $$$$$$$/ $$/              $$$$$$/  $$/   $$/  $$$$$$/  $$$$$$$/  
+                    $$ |                                                              $$ |      
+                    $$ |                                                              $$ |      
+                    $$/                                                               $$/          
+```
 # 🏪 AGORA Super Shop Management System
 
 A comprehensive C-based Super Shop Management System with complete inventory and employee management capabilities.
@@ -157,8 +172,8 @@ Chittagong
 4. Generates formatted bill with total
 5. Updates inventory automatically
 
-#### Low Quantity Alert (- Automatically identifiesOption 8)
- items with quantity ≤ 10
+#### Low Quantity Alert (Option 8)
+- Automatically identifies items with quantity ≤ 10
 - Useful for inventory replenishment planning
 
 ## 👥 Team
